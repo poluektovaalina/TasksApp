@@ -1,0 +1,3 @@
+.task_item.completed{
+    text-decoration: line-through;
+}
